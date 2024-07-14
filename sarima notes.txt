@@ -24,11 +24,18 @@ Feature Selection:
 Ensure features are relevant and improve model performance.
 
 Best SARIMA parameters: (0, 0, 0)x(2, 1, 0, 12) - AIC:-36.36592835447702
+
 With exogs from raw
 Mean Absolute Error (MAE): 1924.2795084223715
 Mean Squared Error (MSE): 7499868.612159682
 Root Mean Squared Error (RMSE): 2738.5887993927972
+
 with exogs from raw and lag 3
 Mean Absolute Error (MAE): 1318.2697521483094
 Mean Squared Error (MSE): 3966454.870925532
 Root Mean Squared Error (RMSE): 1991.5960611844794
+
+with pca 
+Mean Absolute Error (MAE): 9778.580912312535
+Mean Squared Error (MSE): 152973372.91314992
+Root Mean Squared Error (RMSE): 12368.240493827323
