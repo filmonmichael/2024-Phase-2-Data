@@ -1,3 +1,10 @@
+SARIMA separated 
+
+(2,1,1)* 1,1,0
+
+AR (Auto-Regressive) terms are typically identified using the Partial Autocorrelation Function (PACF) plot.
+MA (Moving Average) terms are typically identified using the Autocorrelation Function (ACF) plot.
+
 count		48.000000	
 mean		15458.329069
 std		9103.800668	
