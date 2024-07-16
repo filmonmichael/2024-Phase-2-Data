@@ -1,6 +1,6 @@
 SARIMA separated 
 
-(2,1,1)* 1,1,0
+(1,1,1)* 1,1,0
 
 AR (Auto-Regressive) terms are typically identified using the Partial Autocorrelation Function (PACF) plot.
 MA (Moving Average) terms are typically identified using the Autocorrelation Function (ACF) plot.
